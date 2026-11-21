@@ -1,0 +1,17 @@
+using UnityEngine;
+
+public class PlayerAnimator : MonoBehaviour
+{
+    private const string IsWalking = "IsWalking";
+    [SerializeField] private Player player;
+    private Animator animator;
+    private void Awake()
+    {
+        animator = GetComponent<Animator>();
+        animator.SetBool(IsWalking,player.IsWalking);
+    }
+    private void Update()
+    {
+        animator.SetBool(IsWalking,player.IsWalking);
+    }
+}
