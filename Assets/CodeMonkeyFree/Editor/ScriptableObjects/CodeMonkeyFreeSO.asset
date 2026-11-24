@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   currentVersion: 1.01
   subtype: kitchenchaos
-  lastShownTimestamp: 1795181625
+  lastShownTimestamp: 1795439304
   lastUpdateResponse:
     version: 1.01
     versionUrl: https://unitycodemonkey.com
-  checkedLastUpdateTimestamp: 1795181625
+  checkedLastUpdateTimestamp: 1795439304
   lastQOTDResponse:
     questionId: 364
     questionText: 'What is the Color on the SpriteRenderer after running this code?
@@ -35,7 +35,7 @@ MonoBehaviour:
     answerC: Don't Know
     answerD: 
     answerE: 
-  lastQotdTimestamp: 1795181625
+  lastQotdTimestamp: 1795439304
   lastDynamicHeaderResponse:
     topImageUrl: https://codemonkeyexternal.blob.core.windows.net/external/Misc/codeMonkeyEndOfSummerBundleOct26.png
     topText: Back for a limited time until the END OF SUMMER, 80% OFF all my Courses
@@ -43,11 +43,11 @@ MonoBehaviour:
     topLink: summerbundle
     bottomText: FREE Game Dev Insights every week straight to your inbox!
     bottomLink: gamedevreport
-  lastDynamicHeaderTimestamp: 1795181625
+  lastDynamicHeaderTimestamp: 1795439304
   websiteLatestMessage:
     text: <a href="https://cmonkey.co/freecourses">Check out all my FREE courses!
       Click here!</a>
-  websiteLatestMessageTimestamp: 1795181625
+  websiteLatestMessageTimestamp: 1795439304
   websiteLatestVideos:
     videos:
     - youTubeId: nhx0FqRDSjM
@@ -58,4 +58,4 @@ MonoBehaviour:
       title: My 10th Steam game is out! Why am I both HAPPY and SAD?
     - youTubeId: dkIfY7svIpg
       title: TOP 10 NEW Games, Made with Unity! (OCTOBER 2026)
-  websiteLatestVideosTimestamp: 1795181625
+  websiteLatestVideosTimestamp: 1795439304
